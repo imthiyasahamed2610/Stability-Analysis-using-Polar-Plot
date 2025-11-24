@@ -8,7 +8,8 @@ Computer with MATLAB software
 
 ![17639526255432896521541448977604](https://github.com/user-attachments/assets/823a67ce-28c0-4ba2-a6aa-008bfa4defca)
 
-![Uploading 17639529687227005267499807705634.png…]()
+<img width="944" height="1280" alt="17639533895986754947149071688485" src="https://github.com/user-attachments/assets/86fafef5-39b3-47a7-b55c-f6b361e47a97" />
+
 
 ## Procedure:
 	Open MATLAB software
