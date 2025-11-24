@@ -6,9 +6,8 @@ Computer with MATLAB software
 
 ## Theory:
 
-![cs](https://github.com/user-attachments/assets/11ec7b2c-8943-4c68-b375-526c3c08a23f)
-![cs2](https://github.com/user-attachments/assets/741c0643-e59a-4b5e-af9b-d779caa67fc2)
-![WhatsApp Image 2025-11-16 at 15 20 21_7861d614](https://github.com/user-attachments/assets/ade524d0-9a0e-4e83-b6cb-b3c79047007e)
+![17639526255432896521541448977604](https://github.com/user-attachments/assets/823a67ce-28c0-4ba2-a6aa-008bfa4defca)
+
 
 ## Procedure:
 	Open MATLAB software
